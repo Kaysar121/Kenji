@@ -1,12 +1,12 @@
 {
-  "botName": "Keji Cloud",
-  "prefix": ".",
+  "botName": "Angel Cloud",
+  "prefix": ",",
   "botpicture": "https://i.ibb.co/Xxmdjjfm/Flux-Dev-cinematic-keyframe13-anime-keyframe12-Animestyle-port-2.jpg",
-  "ownerName": "Hridoy",
-  "ownerUID": "61575746590997",
+  "ownerName": "kawsar",
+  "ownerUID": "100063229081678",
   "adminUIDs": [
-    "61575746590997",
-    "admin_uid_2",
+    "100033472178222",
+    "2582004015467842",
     "your_uid_here",
     "12"
   ],
@@ -22,5 +22,5 @@
     "cooldown": true,
     "logging": true
   },
-  "supportGC": "23875159305442595"
+  "supportGC": "2582004015467842"
 }
