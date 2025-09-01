@@ -23,7 +23,7 @@ module.exports = {
             }
 
             const url = args.join(" ");
-            const apiKey = "rzjQPNYy2Ktvyik5QGhPT1rrdGSTUtnN4dYurUtJKsSrxj3layuHKKJD2VF7";
+            const apiKey = "OsBKRrkj0HNuxW60a8cHiW2YjYwrcrMERxu7m30AsI0jHcYau4kCQDMZX6u2";
             const response = await axios.post('https://api.tinyurl.com/create', {
                 url: url,
                 api_token: apiKey
