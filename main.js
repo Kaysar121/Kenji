@@ -112,7 +112,7 @@ const initializeBot = async () => {
     });
 
 
-    const port = process.env.PORT || 20170;
+    const port = process.env.PORT || 10000;
     app.listen(port, () => {
       log('info', `Web server running on port ${port}`);
     });
